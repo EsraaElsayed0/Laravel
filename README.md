@@ -1,5 +1,12 @@
 # Laravel
 HR Smart System
+This is my First web project in Laravel.
+Tech: HTML, CSS, PHP, JavaScript
+-I have created MySQL database called 'mydata'.
+-Using php in the backend I created view for each table I want.
+-As Showen in the video for each section (employee, projects, jobs, departments, companies ...) you can make some actions like adding new employee, edit employee data or remove employee and any changes will be applied in the database.
+I can add new more features for the project later.
+
 ![login page](https://github.com/EsraaElsayed0/Laravel/assets/89749334/ab94eca6-d046-4a68-a293-4f11e2f012fc)
 ![Dashboard page](https://github.com/EsraaElsayed0/Laravel/assets/89749334/8f6ff9e8-a595-4b1b-927c-9652a99274dd)
 ![index](https://github.com/EsraaElsayed0/Laravel/assets/89749334/7b0391e7-4b45-4f00-85da-98f13561127d)
